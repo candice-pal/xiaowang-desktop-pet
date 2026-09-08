@@ -8,6 +8,10 @@
 
 <p align="center"><a href="README.zh-TW.md">繁體中文</a></p>
 
+## Preview
+
+![Xiao Wang desktop pet running on Windows](media/xiaowang-demo.png)
+
 ## Features
 
 - Transparent, always-on-top desktop pet window
