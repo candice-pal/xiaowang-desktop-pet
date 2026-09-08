@@ -82,4 +82,4 @@ The MIT License applies to the software code only. See [ASSET_NOTICE.md](ASSET_N
 
 ## License
 
-The software code is available under the [MIT License](LICENSE). Image assets are handled separately as described in [ASSET_NOTICE.md](ASSET_NOTICE.md).
+Copyright © 2026 candice-pal. The source code is licensed under the [MIT License](LICENSE). Character artwork is excluded from the MIT License; see [ASSET_NOTICE.md](ASSET_NOTICE.md).
