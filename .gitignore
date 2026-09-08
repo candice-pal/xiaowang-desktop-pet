@@ -1,0 +1,18 @@
+# Local Windows files
+*.lnk
+Thumbs.db
+Desktop.ini
+
+# Local packages and runtime files
+*.zip
+*.log
+settings.json
+
+# Editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
+
+# Local work folders
+work/
+tmp/
