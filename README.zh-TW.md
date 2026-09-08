@@ -8,6 +8,10 @@
 
 <p align="center"><a href="README.md">English</a></p>
 
+## 預覽
+
+![Xiao Wang desktop pet running on Windows](media/xiaowang-demo.png)
+
 ## 功能
 
 - 透明背景、保持置頂的桌面寵物視窗
