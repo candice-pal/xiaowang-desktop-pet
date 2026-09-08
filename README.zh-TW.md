@@ -62,4 +62,4 @@ MIT License 僅適用於程式碼。圖片素材另依 [ASSET_NOTICE.md](ASSET_N
 
 ## 授權
 
-程式碼採用 [MIT License](LICENSE)。圖片素材不包含在 MIT 授權範圍內，詳見 [ASSET_NOTICE.md](ASSET_NOTICE.md)。
+Copyright © 2026 candice-pal。程式碼採用 [MIT License](LICENSE)。角色圖片不包含在 MIT License 授權範圍內，詳見 [ASSET_NOTICE.md](ASSET_NOTICE.md)。
